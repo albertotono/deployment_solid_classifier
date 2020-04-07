@@ -6,9 +6,5 @@ Demo classifier with fastai and Voila for Cubes or Parallelepipeds
 
 .. image:: https://mybinder.org/badge_logo.svg
 
- :target: https://mybinder.org/v2/gh/albertotono/deployment/master?urlpath=%2Fvoila%2Frender%2Fsolid.ipynb
- 
- 
- https://mybinder.org/v2/gh/albertotono/deployment/master?urlpath=%2Fvoila%2Frender%2Fsolid.ipynb
  
  

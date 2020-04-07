@@ -7,7 +7,7 @@ Demo classifier with fastai and Voila for Cubes or Parallelepipeds
 ![image](DataAugmentation.JPG)
 ![image](DataAugmentation1.JPG)
 ![image](DataAugmentation2.JPG)
-![image](DataAugmentation3.JPG)
+![image](DataAugmentation4.JPG)
 
  
  
